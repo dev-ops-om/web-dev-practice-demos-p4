@@ -1,0 +1,11 @@
+[33mcommit 40132fa1bc02cf736606b24194ed9fc68c0527a1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Om Shirbhate <shirbhateom2005@gmail.com>
+Date:   Sat Jun 13 13:27:33 2026 +0530
+
+    some changes added
+
+[33mcommit d350507bdc1b8b672d39b99b1d123c317746609f[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Om Shirbhate <shirbhateom2005@gmail.com>
+Date:   Sat Jun 13 13:08:14 2026 +0530
+
+    chore:initialise tailwind project
